@@ -1,4 +1,4 @@
 import WebView from './lib/WebView';
-console.log("CHECK");
+console.log("WEBVIEW TEST");
 export { WebView };
 export default WebView;
