@@ -1,4 +1,4 @@
 import WebView from './lib/WebView';
-console.log("EXPLICIT");
+console.log("TOUCH PROJECT");
 export { WebView };
 export default WebView;
